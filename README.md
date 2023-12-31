@@ -1,4 +1,4 @@
-<h1 align="center"> Inflex Music Bot <\> </h1>
+<h1 align="center"> myra x music<\> </h1>
 
 <p align="center">
   <img src="https://graph.org/file/9d75bfb77e17b80b3da5b.png" alt="mrya x music" width="640" height="360">
