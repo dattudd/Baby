@@ -1,7 +1,7 @@
 <h1 align="center"> myra x music<\> </h1>
 
 <p align="center">
-  <img src="https://graph.org/file/9d75bfb77e17b80b3da5b.png" alt="mrya x music" width="640" height="360">
+  <img src="https://telegra.ph/file/c61f43d920977e19f41ba.jpg" alt="mrya x music" width="640" height="360">
 </p>
 
 <p align="center">
